@@ -3,6 +3,6 @@ replicaCount: 2
 image:
   repository: saffirescale/go-web-app
   pullPolicy: IfNotPresent
-  tag: "20536065541"
+  tag: "20681212161"
 
 
