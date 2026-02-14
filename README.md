@@ -1,4 +1,5 @@
-# ScaleReady_EKS_Starter_Package
+# enterprise-kubernetes-foundation-model
+
 Production-ready AWS EKS foundation with CI/CD, Helm, and Kubernetes best practices — built for growing teams.
 A production-ready AWS EKS starter setup designed for teams moving beyond EC2 and preparing for scale — without Kubernetes chaos.
 Built for reliability, clarity, and controlled growth.  [ Kubernetes Foundation in 10 Days ]
